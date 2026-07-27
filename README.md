@@ -1,5 +1,7 @@
 # Unix Shell in C
 
+*Built for CMSC 14400 (Systems Programming II), University of Chicago.*
+
 A command-line shell implemented from scratch in C, supporting both interactive use and batch script execution.
 
 ## Features
